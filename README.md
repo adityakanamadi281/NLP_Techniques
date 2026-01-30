@@ -1,4 +1,4 @@
-# NLP_Tecnhiques
+# Zero-to_Hero in NLP
 
 
 ### 1) Data Preprocessing
